@@ -21,8 +21,12 @@ You can install the required Python libraries using the following command:
 pip install pytesseract Pillow
 ```
 
-### 3. Run File:
+## Run File:
 - run the file `f1_part2.py` by changing the location of the image and also the loaction of pytesseract
 - run the file `f1.ipynb` to see the outputs of the image given in the readme(indian flag)
 - `f1_part2.ipynb` was adaptation of `f1.ipynb` to the sample image given, the hormones diagram
 - final code to be run is in `f1_part2.py`
+
+## Next Steps:
+- Test with more images and fine tune the thresholds in the image
+- Implement an ML model which makes boxes around blocks of text, instead of using an OCR
