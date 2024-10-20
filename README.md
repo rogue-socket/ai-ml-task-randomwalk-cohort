@@ -23,3 +23,6 @@ pip install pytesseract Pillow
 
 ### 3. Run File:
 - run the file `f1_part2.py` by changing the location of the image and also the loaction of pytesseract
+- run the file `f1.ipynb` to see the outputs of the image given in the readme(indian flag)
+- `f1_part2.ipynb` was adaptation of `f1.ipynb` to the sample image given, the hormones diagram
+- final code to be run is in `f1_part2.py`
